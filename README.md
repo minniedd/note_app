@@ -1,2 +1,2 @@
 # note_app
-not complete
+not complete ; need to be connected to database
